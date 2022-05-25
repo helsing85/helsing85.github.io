@@ -45,7 +45,7 @@ hr {
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
+  margin: 10px 10px;
   text-decoration: none;
 }
 
@@ -112,6 +112,7 @@ a:hover {
   width: 20%;
   float: left;
   margin-right: 30px;
+  margin-bottom: 50px;
 }
 
 .skill-img {
